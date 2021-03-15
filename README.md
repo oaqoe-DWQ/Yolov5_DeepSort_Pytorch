@@ -18,7 +18,7 @@ https://arxiv.org/abs/1703.07402
 - YOLOv4: Optimal Speed and Accuracy of Object Detection
 https://arxiv.org/pdf/2004.10934.pdf
 
-## Requirements
+＃＃ 要求
 
 Python 3.8 or later with all requirements.txt dependencies installed, including torch>=1.7. To install run:
 
@@ -63,4 +63,5 @@ python3 track.py --source ... --save-txt
 ## Other information
 
 For more detailed information about the algorithms and their corresponding lisences used in this project access their official github implementations.
+Thank you for Yolov5 help
 
