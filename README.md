@@ -32,7 +32,7 @@ All dependencies are included in the associated docker images. Docker requiremen
 
 1. Clone the repository recursively:
 
-`git clone --recurse-submodules https://github.com/mikel-brostrom/Yolov5_DeepSort_Pytorch.git`
+`git clone --recurse-submodules https://github.com/oaqoe-DWQ/Yolov5_DeepSort_Pytorch`
 
 If you already cloned and forgot to use `--recurse-submodules` you can run `git submodule update --init`
 
